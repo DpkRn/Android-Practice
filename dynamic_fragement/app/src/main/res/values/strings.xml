@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dynamic_fragement</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragmentB">Hello blank fragmentB</string>
+</resources>
